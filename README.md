@@ -15,3 +15,5 @@ to download hyper_1.0 click this https://gofile.io/d/eP7pEm
 
 
 go to the discord if you need any help or if you want to report any bugs https://discord.gg/yB64jARqNB
+
+since this is the first release it remains free
