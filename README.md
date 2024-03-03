@@ -1,5 +1,5 @@
 # Hyper_1.0-external
-made by the co owners of synapse x
+made by the co owners of scriptware
 
 features: level 7 executer with working gui that works in roblox web version
           added in scripts
